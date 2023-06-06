@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Quicksand:wght@700&display=swap');
+*{
+	font-family: 'Quicksand',sans-serif;
+}
+.menu
+{
+	position: absolute;
+	top: -1%;
+	left: 10%;
+	font-size: 25px;
+}
+.paganterior
+{
+	position: absolute;
+	left: 5%;
+	top: 1%;
+}
+.Oceania
+{
+	left: 35%;
+}
+.Equipo21
+{
+	position: absolute;
+	left: 5%;
+}
+.info21
+{
+	position: absolute;
+	left: 5%;
+	top: 115%;
+	font-size: 25px;
+}
+.club21
+{
+	width: 190px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, blue, grey);
+	position: absolute;
+	left: 15%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo22
+{
+	position: absolute;
+	left: 24%;
+}
+.info22
+{
+	position: absolute;
+	left: 5%;
+	top: 114%;
+}
+.club22
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left,black,#ffa500);
+	color:black;
+	position: absolute;
+	left: 14%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo23
+{
+	position: absolute;
+	left: 45%;
+}
+.info23
+{
+	position: absolute;
+	left:-5%;
+	top: 114%;
+}
+.club23
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, #dc143c, white);
+	position: absolute;
+	left: -15%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo24
+{
+	position: absolute;
+	left: 60%;
+}
+.info24
+{
+	position: absolute;
+	left: 5%;
+	top:115%;
+}
+.club24
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left,black,#191970);
+	color: white;
+	position: absolute;
+	left: 15%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo25
+{
+	position: absolute;
+	left: 83%;
+}
+.info25
+{
+	position: absolute;
+	left: -5%;
+	top: 115%;
+}
+.club25
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to right, grey, white);
+	position: absolute;
+	left: -5%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.estadio16
+{
+	position: absolute;
+	top: 55%;
+	left: 5%;
+}
+.estadio17
+{
+	position: absolute;
+	top: 58%;
+	left:23%;
+}
+.estadio18
+{
+	position: absolute;
+	top: 58%;
+	left: 41%;
+}
+.estadio19
+{
+	position: absolute;
+	top: 58%;
+	left: 59%;
+}
+.estadio20
+{
+	position: absolute;
+	top: 58%;
+	left: 79%;
+}

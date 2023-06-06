@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Quicksand:wght@700&display=swap');
+*{
+	font-family: 'Quicksand',sans-serif;
+}
+body
+{
+	background: linear-gradient(to left,#9FF4A2,#81EFEB,#9FF4A2);
+}
+.menu
+{
+	position: absolute;
+	top: -1%;
+	left: 10%;
+	font-size: 25px;
+}
+.paganterior
+{
+	position: absolute;
+	left: 5%;
+	top: 1%;
+}
+.textpag
+{
+	position: absolute;
+	top: 0%;
+	left: 82%;
+	font-size: 25px;
+}
+.botonnext
+{
+	position: absolute;
+	top: 2%;
+	left: 90%;
+}
+.Asia
+{
+	left: 35%;
+}
+.Equipo6
+{
+	position: absolute;
+	left: 7%;
+}
+.info6
+{
+	position: absolute;
+	left: 9%;
+	top: 115%;
+	font-size: 25px;
+}
+.club6
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, blue, yellow);
+	position: absolute;
+	left: 5%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo7
+{
+	position: absolute;
+	left: 24%;
+}
+.info7
+{
+	position: absolute;
+	left: 23%;
+	top: 114%;
+}
+.club7
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, grey, gold);
+	position: absolute;
+	left: 14%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo8
+{
+	position: absolute;
+	left: 43%;
+}
+.info8
+{
+	position: absolute;
+	left: 8%;
+	top: 114%;
+	font-size: 20px;
+}
+.club8
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to right, #dc143c, yellow, black);
+	position: absolute;
+	left: 6%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo9
+{
+	position: absolute;
+	left: 62%;
+}
+.info9
+{
+	position: absolute;
+	left: 1%;
+	top:115%;
+	font-size: 20px;
+}
+.club9
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, blue, #dc143c);
+	position: absolute;
+	left: 1%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo10
+{
+	position: absolute;
+	left: 82%;
+}
+.info10
+{
+	position: absolute;
+	left: 1%;
+	top: 115%;
+	font-size: 20px;
+}
+.club10
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, #4682b4, #48d1cc);
+	position: absolute;
+	left: 1%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.video1
+{
+	position: absolute;
+	top: 55%;
+	left: 5%;
+}
+.video2
+{
+	position: absolute;
+	top: 55%;
+	left: 23%;
+}
+.video3
+{
+	position: absolute;
+	top: 55%;
+	left: 41%;
+}
+.estad
+{
+	position: absolute;
+	top: 55%;
+	left: 59%;
+}
+.video5
+{
+	position: absolute;
+	top: 55%;
+	left: 80%;
+}

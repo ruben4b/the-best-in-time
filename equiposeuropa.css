@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Quicksand:wght@700&display=swap');
+*{
+	font-family: 'Quicksand',sans-serif;
+}
+body
+{
+	background: linear-gradient(to white);
+}
+.menu
+{
+	position: absolute;
+	top: -1%;
+	left: 10%;
+	font-size: 25px;
+}
+.paganterior
+{
+	position: absolute;
+	left: 5%;
+	top: 1%;
+}
+.textpag
+{
+	position: absolute;
+	top: 0%;
+	left: 82%;
+	font-size: 25px;
+}
+.botonnext
+{
+	position: absolute;
+	top: 2%;
+	left: 90%;
+}
+.Europa
+{
+	left: 35%;
+}
+.Equipo16
+{
+	position: absolute;
+	left: 5%;
+}
+.info16
+{
+	position: absolute;
+	left: -2%;
+	top: 115%;
+	font-size: 25px;
+}
+.club16
+{
+	width: 190px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, #4682b4, #87cefa);
+	position: absolute;
+	left: 15%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo17
+{
+	position: absolute;
+	left: 24%;
+}
+.info17
+{
+	position: absolute;
+	left: 16%;
+	top: 114%;
+}
+.club17
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left,#00008b, yellow, #8b0000);
+	color:black;
+	position: absolute;
+	left: 14%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo18
+{
+	position: absolute;
+	left: 45%;
+}
+.info18
+{
+	position: absolute;
+	left:-5%;
+	top: 114%;
+}
+.club18
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, white, black);
+	position: absolute;
+	left: -15%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo19
+{
+	position: absolute;
+	left: 60%;
+}
+.info19
+{
+	position: absolute;
+	left: 25%;
+	top:115%;
+}
+.club19
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left,#0000cd, red);
+	position: absolute;
+	left: 15%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo20
+{
+	position: absolute;
+	left: 80%;
+}
+.info20
+{
+	position: absolute;
+	left: 15%;
+	top: 115%;
+	font-size: 20px;
+}
+.club20
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to right, #1e90ff,#dc143c);
+	position: absolute;
+	left: 18%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.estadio11
+{
+	position: absolute;
+	top: 55%;
+	left: 5%;
+}
+.estadio12
+{
+	position: absolute;
+	top: 55%;
+	left:23%;
+}
+.estadio13
+{
+	position: absolute;
+	top: 55%;
+	left: 41%;
+}
+.estadio14
+{
+	position: absolute;
+	top: 55%;
+	left: 59%;
+}
+.estadio15
+{
+	position: absolute;
+	top: 55%;
+	left: 79%;
+}

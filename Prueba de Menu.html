@@ -1,0 +1,56 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title> Prueba de Menu Desplegable</title>
+	<!--Link-->
+	<link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css" integrity="sha384-QYIZto+st3yW+o8+5OHfT6S482Zsvz2WfOzpFSXMF9zqeLcFV0/wlZpMtyFcZALm" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<font face="Trebuchet MS" size="5">
+<header>
+	<p align="left" class="titulo"> The Best in Time </p>
+	<script>
+		function Fecha()
+		{
+			document.write ("<div class=fecha>");
+			var fecha
+			fecha=new Date();
+		document.write('Hoy es: ');
+		document.write (fecha.getDate()+'/');
+		document.write ((fecha.getMonth()+1)+'/');
+		document.write (fecha.getFullYear());
+		document.write ('<br>');
+		document.write ('<br>');
+		document.write ('<b> Hora: </b>');
+		document.write (fecha.getHours()+':');
+		document.write (fecha.getMinutes()+':');
+		document.write (fecha.getSeconds());
+		document.write ("</div>");
+		document.write ("</font>");
+		document.write ("</font>");
+		}
+	Fecha();
+	</script>
+	<ul>
+		<li> <a href="Inicio.html"> Inicio </a> </li>
+	</li>
+	<li> <a href="#"> Continentes <span class="fa fa-angle-down"></span> </a>
+		<ul>
+			<li> <a href="America.html"> America </a> </li>
+			<li> <a href="Asia.html"> Asia </a> </li>
+			<li> <a href="Africa.html"> Africa </a> </li>
+			<li> <a href="Europa.html"> Europa </a> </li>
+			<li> <a href="Oceania.html"> Oceania </a> </li>
+		</ul>
+	</li>
+	<li> <a href="#"> <span class="fa angle-down"></span> </a>
+</li>
+	</ul>
+</header>
+<video autoplay loop muted plays-inline>
+		<source src="Fondo3.mp4" type="video/mp4">
+	</video>
+</body>
+</font>
+</html>

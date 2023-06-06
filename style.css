@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Quicksand:wght@700&display=swap');
+*{
+	font-family: 'Quicksand',sans-serif;
+}
+.titulo{
+	position: absolute;
+	left: 10%;
+	top: -2%;
+	font-family: 'Quicksand';
+	font-size: 35px ;
+	color: black;
+}
+.tituloimg{
+	position: absolute;
+	left: 3%;
+	top: 35%;
+}
+.fecha
+{
+	position: absolute;
+	left: 38%;
+	top: 2%;
+	font-size: 15px ;
+	color: white;
+}
+.frase
+{
+	position: absolute;
+	left: 11%;
+}
+header{
+	width: auto;
+	height: auto;
+	display: flex;
+	justify-content: flex-end;
+}
+
+header ul{
+	display: flex;
+	list-style: none;
+}
+
+header ul li a{
+	display: block;
+	padding: 20px 20px;
+	color: white;
+	text-decoration:none;
+}
+
+header ul ul{
+	position: absolute;
+	top: 65px;
+	display: block;
+	background: black;
+	transform: translateX(-10%);
+	opacity: 0;
+	transition: all .6s;
+}
+
+header ul li a span{
+	transition: all .6s;
+}
+
+header ul li a:hover span{
+	transform: translateY(20px);
+	opacity: 0;
+}
+
+header ul li:hover ul{
+	opacity: 1;
+	transform: translateX(0%);
+}
+video
+{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	z-index: -1;
+}
+@media (min-aspect-ratio: 16/9){
+	video{
+		width: 100%;
+		height: auto;
+	}
+}

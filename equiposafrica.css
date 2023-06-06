@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Quicksand:wght@700&display=swap');
+*{
+	font-family: 'Quicksand',sans-serif;
+}
+body
+{
+	background: linear-gradient(to left,red,yellow,lightgreen);
+}
+.menu
+{
+	position: absolute;
+	top: -1%;
+	left: 10%;
+	font-size: 25px;
+}
+.paganterior
+{
+	position: absolute;
+	left: 5%;
+	top: 1%;
+}
+.textpag
+{
+	position: absolute;
+	top: 0%;
+	left: 82%;
+	font-size: 25px;
+}
+.botonnext
+{
+	position: absolute;
+	top: 2%;
+	left: 90%;
+}
+.Africa
+{
+	left: 35%;
+}
+.Equipo11
+{
+	position: absolute;
+	left: 7%;
+}
+.info11
+{
+	position: absolute;
+	left: -2%;
+	top: 115%;
+	font-size: 20px;
+}
+.club11
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, red, white);
+	position: absolute;
+	left: 5%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo12
+{
+	position: absolute;
+	left: 24%;
+}
+.info12
+{
+	position: absolute;
+	left: 16%;
+	top: 114%;
+}
+.club12
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, red, black);
+	color: white;
+	position: absolute;
+	left: 14%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo13
+{
+	position: absolute;
+	left: 43%;
+}
+.info13
+{
+	position: absolute;
+	left:20%;
+	top: 114%;
+}
+.club13
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, red, white);
+	position: absolute;
+	left: 6%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo14
+{
+	position: absolute;
+	left: 62%;
+}
+.info14
+{
+	position: absolute;
+	left: 4%;
+	top:115%;
+	font-size: 22px;
+}
+.club14
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, yellow, #8b0000);
+	position: absolute;
+	left: 1%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.Equipo15
+{
+	position: absolute;
+	left: 82%;
+}
+.info15
+{
+	position: absolute;
+	left: 17%;
+	top: 115%;
+}
+.club15
+{
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	background: linear-gradient(to left, blue, white);
+	position: absolute;
+	left: 1%;
+	top: 105%;
+	height:36px;
+	width: 130px;
+	font-size: 13px;
+}
+.estadio6
+{
+	position: absolute;
+	top: 55%;
+	left: 5%;
+}
+.estadio7
+{
+	position: absolute;
+	top: 55%;
+	left:23%;
+}
+.estadio8
+{
+	position: absolute;
+	top: 55%;
+	left: 41%;
+}
+.estadio9
+{
+	position: absolute;
+	top: 55%;
+	left: 59%;
+}
+.estadio10
+{
+	position: absolute;
+	top: 55%;
+	left: 79%;
+}

@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Quicksand:wght@700&display=swap');
+*
+{
+	font-family: 'Quicksand', sans-serif;
+}
+body
+{
+	background: linear-gradient(to left,lightblue,yellow,orange);
+}
+.menu
+{
+	position: absolute;
+	top: -1%;
+	left: 10%;
+	font-size: 25px;
+}
+.paganterior
+{
+	position: absolute;
+	left: 5%;
+	top: 1%;
+}
+.textpag
+{
+	position: absolute;
+	top: 0%;
+	left: 82%;
+}
+.botonnext
+{
+	position: absolute;
+	top: 2%;
+	left: 90%;
+}
+.America
+{
+	display: flex;
+}
+.Equipo1
+{
+	position: absolute;
+	left: 5%;
+}
+.info1
+{
+	position: absolute;
+	left: 2%;
+	top: 103%;
+	font-size: 35px ;
+}
+.club1
+{
+	width: 170px;
+	height: 30px;
+	border-radius: 30px;
+	background: linear-gradient(to right, red, black);
+	color: white;
+	position: absolute;
+	left: 1%;
+	top: 105%;
+	font-size: 15px;
+}
+.Equipo2
+{
+	position: absolute;
+	left: 25%;
+}
+.info2
+{
+	position: absolute;
+	left: 3%;
+	top: 105%;
+	font-size: 35px;
+}
+.club2
+{
+	width: 170px;
+	height: 30px;
+	border-radius: 30px;
+	background: linear-gradient(to right, lightgreen, white);
+	position: absolute;
+	left: 3%;
+	top: 105%;
+	font-size: 15px;
+}
+.Equipo3
+{
+	position: absolute;
+	left: 43%;
+}
+.info3
+{
+	position: absolute;
+	left: 23%;
+	top: 105%;
+	font-size: 35px;
+}
+.club3
+{
+	width: 170px;
+	height: 30px;
+	border-radius: 30px;
+	background: linear-gradient(to left, blue, red, white);
+	position: absolute;
+	left: 6%;
+	top: 105%;
+	font-size: 15px;
+}
+.Equipo4
+{
+	position: absolute;
+	left: 62%;
+}
+.info4
+{
+	position: absolute;
+	left: 6%;
+	top: 115%;
+	font-size: 25px;
+}
+.club4
+{
+	width: 190px;
+	height: 30px;
+	border-radius: 30px;
+	background: linear-gradient(to left, blue, yellow);
+	position: absolute;
+	width: 130px;
+	left: 15%;
+	top: 105%;
+	font-size: 15px;
+}
+.Equipo5
+{
+	position: absolute;
+	left: 80%;
+}
+.info5
+{
+	position: absolute;
+	left: 2%;
+	top: 105%;
+	font-size: 35px;
+}
+.club5
+{
+	width: 170px;
+	height: 30px;
+	border-radius: 30px;
+	background: linear-gradient(to left, blue, white);
+	position: absolute;
+	left: 4%;
+	top: 105%;
+	font-size: 15px;
+}
+.Estadios-Jerseys
+{
+	display: flex;
+}
+.estadio1
+{
+	position: absolute;
+	top: 55%;
+	left: 3%;
+}
+.estadio2
+{
+	position: absolute;
+	top: 55%;
+	left:23%;
+}
+.estadio3
+{
+	position: absolute;
+	top: 55%;
+	left: 42%;
+}
+.estadio4
+{
+	position: absolute;
+	top: 55%;
+	left: 60.5%;
+}
+.estadio5
+{
+	position: absolute;
+	top: 55%;
+	left: 78%;
+}
